@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning WebDeveloper
 - 💞️ I’m looking to collaborate on Wev Dev Projects
 - 📫 How to reach me: ossicom at hotmail.com
+- i'm looking for a start as a Junior Web Developer..
 
 <!---
 ossicom/ossicom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
